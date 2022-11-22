@@ -1,5 +1,5 @@
-/// CS370 Assignment 3 - Limelight
-// Fall 2022
+// Limelight
+
 
 #include <stdio.h>
 #include <vector>
